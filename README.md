@@ -65,5 +65,5 @@ g++ -o maze_runner Main.cpp Game.cpp Maze.cpp Position.cpp Game.h Maze.h Positio
 
 ## 📬 Contact  
 For inquiries, reach out via:  
-🔗 **LinkedIn**: [Subhasree Yenigalla](https://www.linkedin.com/in/subhasree-yenigalla-5688a228a/)  
+🔗 **LinkedIn**: [Jahnavi Gaddala](https://www.linkedin.com/in/jahnavii-g/)  
 
